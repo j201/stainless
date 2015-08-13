@@ -20,7 +20,7 @@ hi Title guifg=#005994 guibg=#e6e6e6 guisp=#e6e6e6 gui=bold ctermfg=24 ctermbg=2
 hi Folded guifg=#7820ff guibg=#e0d8ff guisp=#e0d8ff gui=NONE ctermfg=57 ctermbg=189 cterm=NONE
 hi PreCondit guifg=#0070e6 guibg=NONE guisp=NONE gui=NONE ctermfg=26 ctermbg=NONE cterm=NONE
 hi Include guifg=#0070e6 guibg=NONE guisp=NONE gui=NONE ctermfg=26 ctermbg=NONE cterm=NONE
-hi Float guifg=#2020ff guibg=#e6e6e6 guisp=#e6e6e6 gui=NONE ctermfg=21 ctermbg=189 cterm=NONE
+hi Float guifg=#2020ff guibg=NONE guisp=NONE gui=NONE ctermfg=21 ctermbg=NONE cterm=NONE
 hi StatusLineNC guifg=#b8b8c0 guibg=#404054 guisp=#404054 gui=NONE ctermfg=7 ctermbg=240 cterm=NONE
 "hi CTagsMember -- no settings --
 hi NonText guifg=#4000ff guibg=#ececf0 guisp=#ececf0 gui=NONE ctermfg=57 ctermbg=255 cterm=NONE
@@ -49,9 +49,9 @@ hi Statement guifg=#006b75 guibg=NONE guisp=NONE gui=NONE ctermfg=6 ctermbg=NONE
 "hi SpellRare -- no settings --
 "hi EnumerationValue -- no settings --
 hi Comment guifg=#0009ff guibg=NONE guisp=NONE gui=NONE ctermfg=21 ctermbg=NONE cterm=NONE
-hi Character guifg=#2020ff guibg=#e6e6e6 guisp=#e6e6e6 gui=NONE ctermfg=21 ctermbg=189 cterm=NONE
+hi Character guifg=#2020ff guibg=#e6e6e6 guisp=#e6e6e6 gui=NONE ctermfg=21 ctermbg=NONE cterm=NONE
 "hi TabLineSel -- no settings --
-hi Number guifg=#781414 guibg=#e6e6e6 guisp=#e6e6e6 gui=NONE ctermfg=3 ctermbg=189 cterm=NONE
+hi Number guifg=#781414 guibg=#e6e6e6 guisp=#e6e6e6 gui=NONE ctermfg=3 ctermbg=NONE cterm=NONE
 hi Boolean guifg=#008858 guibg=NONE guisp=NONE gui=NONE ctermfg=29 ctermbg=NONE cterm=NONE
 hi Operator guifg=#7040ff guibg=NONE guisp=NONE gui=NONE ctermfg=13 ctermbg=NONE cterm=NONE
 "hi CursorLine -- no settings --
@@ -81,10 +81,10 @@ hi Cursor guifg=#000000 guibg=#858fb3 guisp=#858fb3 gui=NONE ctermfg=NONE ctermb
 hi Error guifg=#ffffff guibg=#ff4080 guisp=#ff4080 gui=NONE ctermfg=15 ctermbg=13 cterm=NONE
 hi PMenu guifg=#b8b8c0 guibg=#404054 guisp=#404054 gui=NONE ctermfg=7 ctermbg=240 cterm=NONE
 hi SpecialKey guifg=#d87000 guibg=NONE guisp=NONE gui=NONE ctermfg=166 ctermbg=NONE cterm=NONE
-hi Constant guifg=#7a7a00 guibg=#e6e6e6 guisp=#e6e6e6 gui=NONE ctermfg=3 ctermbg=189 cterm=NONE
+hi Constant guifg=#7a7a00 guibg=NONE guisp=NONE gui=NONE ctermfg=3 ctermbg=NONE cterm=NONE
 "hi DefinedName -- no settings --
 hi Tag guifg=#005858 guibg=#ccf7ee guisp=#ccf7ee gui=NONE ctermfg=23 ctermbg=195 cterm=NONE
-hi String guifg=#006106 guibg=#e6e6e6 guisp=#e6e6e6 gui=NONE ctermfg=22 ctermbg=189 cterm=NONE
+hi String guifg=#006106 guibg=NONE guisp=NONE gui=NONE ctermfg=22 ctermbg=NONE cterm=NONE
 hi PMenuThumb guifg=NONE guibg=#a0a0b0 guisp=#a0a0b0 gui=NONE ctermfg=NONE ctermbg=103 cterm=NONE
 "hi MatchParen -- no settings --
 "hi LocalVariable -- no settings --
