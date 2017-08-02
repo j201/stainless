@@ -86,7 +86,7 @@ hi Constant guifg=#7a7a00 guibg=NONE guisp=NONE gui=NONE ctermfg=100 ctermbg=NON
 hi Tag guifg=#005858 guibg=#ccf7ee guisp=#ccf7ee gui=NONE ctermfg=23 ctermbg=195 cterm=NONE
 hi String guifg=#00753B guibg=NONE guisp=NONE gui=NONE ctermfg=28 ctermbg=NONE cterm=NONE
 hi PMenuThumb guifg=NONE guibg=#a0a0b0 guisp=#a0a0b0 gui=NONE ctermfg=NONE ctermbg=103 cterm=NONE
-"hi MatchParen -- no settings --
+hi MatchParen guifg=#000000 guibg=#5fffff guisp=NONE gui=NONE ctermfg=0 ctermbg=87 cterm=NONE
 "hi LocalVariable -- no settings --
 hi Repeat guifg=#7040ff guibg=NONE guisp=NONE gui=NONE ctermfg=93 ctermbg=NONE cterm=NONE
 "hi SpellBad -- no settings --
