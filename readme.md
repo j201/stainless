@@ -1,4 +1,4 @@
-#stainless
+# stainless
 
 A light colour scheme made with [Vivify](http://bytefluent.com/vivify/). I haven't tested it much in consoles and languages I don't use, so I wouldn't recommend it in general, but I really like the colours.
 
